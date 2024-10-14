@@ -9,3 +9,4 @@ Here is the dynamic list of resources include:
   - Kickoff of Competition
   - Networking (Forming Teams)
   - Kickoff Workshop (fundamental details of Ice Hockey, preprocessing data, basic sports analytics techniques)
+- Game Footage is stored in the following drive folder: https://drive.google.com/drive/folders/1fYrKmeIvosREeVlPymqLmVyyfPVlD1Xz?usp=drive_link
